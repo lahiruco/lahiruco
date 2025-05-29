@@ -1,16 +1,19 @@
-## Hi there 👋
+![github banner](https://github.com/user-attachments/assets/de59f3ba-f71e-428d-99f9-51d38133122c)
+<!-- README.md -->
+# 👋 Hi, I'm Lahiru
 
-<!--
-**lahiruco/lahiruco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎨 I'm a UI/UX designer with 3+ years of experience crafting clean, functional, and modern web & mobile interfaces.  
+🔧 I also explore microcontrollers and automotive systems in my free time.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tools & Skills
+- UI/UX Design: Figma, Adobe XD, Prototyping, Wireframing
+- Frontend Basics: HTML, CSS, Git
+- Tech Interests: Microcontrollers, Automotive Electronics, Embedded Systems
+
+---
+
+## 🌐 Connect with Me
+- Portfolio: [your-portfolio-link.com]( https://www.behance.net/lahiru_kumarasignhe)
+- LinkedIn: [linkedin.com/in/yourusername]([https://linkedin.com/in/yourusername](https://www.linkedin.com/in/lahishe/))
