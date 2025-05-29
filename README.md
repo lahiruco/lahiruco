@@ -2,7 +2,7 @@
 <!-- README.md -->
 # 👋 Hi, I'm Lahiru
 
-🎨 I'm a UI/UX designer with 3+ years of experience crafting clean, functional, and modern web & mobile interfaces.  
+🎨 I'm a UI/UX designer with 3+ years of experience crafting clean, functional, and modern web & mobile interfaces.
 🔧 I also explore microcontrollers and automotive systems in my free time.
 
 ---
@@ -15,5 +15,5 @@
 ---
 
 ## 🌐 Connect with Me
-- Portfolio: [your-portfolio-link.com]( https://www.behance.net/lahiru_kumarasignhe)
-- LinkedIn: [linkedin.com/in/yourusername]([https://linkedin.com/in/yourusername](https://www.linkedin.com/in/lahishe/))
+- Portfolio: [lahiru Kumarasinghe.behance.com]( https://www.behance.net/lahiru_kumarasignhe)
+- LinkedIn: [linkedin.com/in/lahiru Kumarasinghe](https://www.linkedin.com/in/lahishe/)
